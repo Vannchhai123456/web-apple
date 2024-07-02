@@ -1707,6 +1707,9 @@ nav .btnsearch {
     margin-right: 30px;
 
   }
+nav.btnsearch svg{
+  color:black;
+}
   nav .btnsearch button{
     background: none;
     border: none;
