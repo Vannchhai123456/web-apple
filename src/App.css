@@ -91,6 +91,7 @@ nav .btnsearch svg:hover{
   -webkit-animation: fadeIn3 0.5s;
   animation: fadeIn3 0.5s;
   z-index: 99;
+  background-color:#eee;
 }
 .background1{
   width: 100%;
@@ -140,6 +141,7 @@ nav .btnsearch svg:hover{
   border: none;
   background: none;
   transition: 0.3s;
+  background-color:#eee;
 }
 .shop .close1 svg{
   transition: 0.3s;
@@ -1719,6 +1721,7 @@ nav.btnsearch svg{
     cursor: pointer;
     margin-right: 10px;
       color:black;
+    background-color:#eee;
   }
 nav .h1{
   width: 10%;
