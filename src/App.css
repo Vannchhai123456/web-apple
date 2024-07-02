@@ -1674,7 +1674,7 @@ article .btnDetail:hover{
     position: absolute;
     overflow: hidden;
     top: 30%;
-    left:80px;
+    left:30px;
     border-radius: 5px;
     box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.295);
   }
