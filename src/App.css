@@ -1669,17 +1669,17 @@ article .btnDetail:hover{
     margin-left: 0px;
   }
   .containersearch{
-    width: 300px;
+    width: 350px;
     /* background-color: pink; */
     position: absolute;
     overflow: hidden;
     top: 30%;
-    left:10px;
+    left:20px;
     border-radius: 5px;
     box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.295);
   }
   .containersearch input{
-    width: 300px;
+    width: 350px;
     height: 50px;
     top: 30%;
     left: 35%;
@@ -1697,13 +1697,28 @@ article .btnDetail:hover{
     border: none;
     position: absolute;
   }
+nav .btnsearch {
+    margin: 5px;
+    margin-top: 20px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    float: right;
+    margin-right: 30px;
+  }
+  nav .btnsearch button{
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+  }
   .shop{
-    width: 300px;
+    width: 350px;
     height: 330px;
     background-color: white;
     z-index: 99;
     position: fixed;
-    left: 10px;
+    left: 20px;
     top: 20%;
     border-radius: 10px;
     box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.245);
