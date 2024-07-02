@@ -1705,12 +1705,14 @@ nav .btnsearch {
     cursor: pointer;
     float: right;
     margin-right: 30px;
+
   }
   nav .btnsearch button{
     background: none;
     border: none;
     cursor: pointer;
     margin-right: 10px;
+      color:black;
   }
   .shop{
     width: 350px;
