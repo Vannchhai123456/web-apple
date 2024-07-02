@@ -91,9 +91,8 @@ nav .btnsearch svg:hover{
   -webkit-animation: fadeIn3 0.5s;
   animation: fadeIn3 0.5s;
   z-index: 99;
-  background-color:#eee;
 }
-.search svg{
+.search .close svg{
   color:black;
 }
 .background1{
