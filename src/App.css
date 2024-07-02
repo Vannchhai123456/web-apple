@@ -1704,7 +1704,7 @@ article .btnDetail:hover{
     right: 0px;
     border: none;
     position: absolute;
-    background-color:#eee;
+    background-color: gray;
   }
 nav .btnsearch {
     margin: 5px;
