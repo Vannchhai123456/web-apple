@@ -1717,6 +1717,17 @@ nav.btnsearch svg{
     margin-right: 10px;
       color:black;
   }
+nav .h1{
+  width: 10%;
+  /* background-color: aqua; */
+  float: left;
+  font-size: 25px;
+  margin-top: 10px;
+  margin-left: 30px;
+}
+nav svg{
+  color:black;
+}
   .shop{
     width: 350px;
     height: 330px;
