@@ -1689,6 +1689,9 @@ article .btnDetail:hover{
     padding: 10px;
     font-size: 20px;
   }
+  .containersearch svg{
+    color:black;
+  }
   .containersearch button{
     float: right;
     width: 50px;
@@ -1741,5 +1744,8 @@ nav svg{
     visibility: visible;
     -webkit-animation: fadeIn5 2s;
     animation: fadeIn5 2s;
+  }
+  .shop svg{
+    color:black;
   }
 } 
